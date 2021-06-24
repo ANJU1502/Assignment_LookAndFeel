@@ -5,7 +5,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-	 color: #ff9900;
+	 color: #009999;
 }
 
 html {
@@ -32,7 +32,7 @@ html {
 .about-section {
   padding: 50px;
   text-align: center;
-  color:  #ff9900
+  color:  white;
 }
 
 .container {
